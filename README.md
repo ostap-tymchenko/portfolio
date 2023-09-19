@@ -1,7 +1,8 @@
 # Portfolio:
 a set of projects to show of how cool i am ✨✨
 
-[resume](resume.pdf)
+Take a look at my [Resume](resume.pdf)!
+Here youl find my up to date work experience, interests, and more usefull info.
 
 ### lets start simple: fizzbuzz
 ``` rust
