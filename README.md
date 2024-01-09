@@ -3,22 +3,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ostap-tymchenko&theme=rose&hide_border=true&mode=weekly" alt="ostap-tymchenko"/>
 
 
-<button id="close" class="closing" onClick="javascript:close_clip()"><img width="100px" hight="100px" src="pdf-icon.png"/></button>
-<button id="close" class="closing" onClick="javascript:close_clip()"><img src="leetcode-icon.png"/></button>
-<p>Resume&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leetcode</p>
 
-<style>
-.fcc-btn {
-	color: white;
-	padding: 35px 35px;
-	text-decoration: none;
-}
-
-img {
-    width: 200px;
-    height: 200px;
-}
-</style>
 
 #### Fizzbuzz
 ``` rust
